@@ -22,6 +22,12 @@ export default function Home() {
         <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
+          <a href='/BryanTurns ' className='card'>
+            <h3>Bryan Turns &rarr;</h3>
+          </a>
+          <a href='/CalebBettcher ' className='card'>
+            <h3>Caleb Bettcher &rarr;</h3>
+          </a>
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
