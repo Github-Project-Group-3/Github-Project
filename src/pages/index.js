@@ -28,6 +28,9 @@ export default function Home() {
           <a href='/CalebBettcher ' className='card'>
             <h3>Caleb Bettcher &rarr;</h3>
           </a>
+          <a href='/AndrewFox ' className='card'>
+            <h3>Andrew Fox &rarr;</h3>
+          </a>
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
             <p>Click here to navigate to an example page</p>
