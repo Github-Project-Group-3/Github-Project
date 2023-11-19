@@ -1,12 +1,12 @@
 export default function XavierPena() {
     return (
       <div>
-        <h1>About Me: Xavier Pena</h1>
+        <h1><center>About Me: <strong>Xavier Pena </strong></center></h1>
         <h3>
-            Hi! My name is Xavier, I'm going into Computer Science as my major with a goal of joining the cybersecurity space! 
+            <center>Hi! My name is Xavier, I'm going into Computer Science as my major with a goal of joining the cybersecurity space! </center>
         </h3>
         <p>
-            I like to listen to most genres of music and play video games.
+        <center>I like to listen to most genres of music and play video games.</center>
         </p>
       </div>
     );
